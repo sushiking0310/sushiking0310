@@ -13,7 +13,7 @@ Computer Science Engineering student at VIT Vellore, interested in software deve
 ### Tech Stack
 
 **Languages**  
-Python · C++ · Java · SQL
+Python · SQL
 
 **Web Development**  
 HTML · CSS · JavaScript · React · Node.js · FastAPI
